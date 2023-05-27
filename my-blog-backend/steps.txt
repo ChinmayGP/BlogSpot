@@ -1,0 +1,11 @@
+npm init -y
+npm install express
+`"type":"module",` in package.json
+npm install mongodb
+
+to run: node src/server.js
+
+npm install nodemon --save-dev
+to automate: npx nodemon src/server.js
+
+npm install firebase-admin
