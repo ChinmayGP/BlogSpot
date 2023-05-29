@@ -9,3 +9,4 @@ npm install nodemon --save-dev
 to automate: npx nodemon src/server.js
 
 npm install firebase-admin
+npm install dotenv
